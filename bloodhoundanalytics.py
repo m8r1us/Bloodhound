@@ -10,7 +10,7 @@ import re
 # Andy Robbins - @_wald0
 # Rohan Vazarkar - @CptJesus
 # https://www.specterops.io
-# Updated by - maeru
+# Updated by - m8r1us
 # Changes: 
 # - Python 3.x and neo4j 4.x compatible
 # - New queries added.
