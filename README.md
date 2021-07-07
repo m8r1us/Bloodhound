@@ -1,2 +1,2 @@
 # Bloodhound
-AD Assessment scripts
+AD & Azure Assessment
